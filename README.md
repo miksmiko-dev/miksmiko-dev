@@ -8,9 +8,9 @@ Currently seeking opportunities to contribute to innovative teams and impactful 
 
 **Frontend:** `React` `Next.js` `TypeScript` `JavaScript` `HTML/CSS` `React Native` `Expo`
 
-**Backend:** `Node.js` `Express` `NestJS` `MySQL` `Prisma` `WebSocket` `Firebase`
+**Backend:** `Node.js` `Express` `NestJS` `MySQL` `Prisma` `WebSocket` `Firebase` `REST API`
 
-**Tools:** `Git` `Docker` `Vim` `WSL` `Linux Ubuntu/Fedora`
+**Tools:** `Git` `Docker` `Vim` `WSL` `Linux Ubuntu/Fedora` `CI/CD`
 
 ## 📌 Featured Projects
 
