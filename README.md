@@ -10,7 +10,7 @@ Currently seeking opportunities to contribute to innovative teams and impactful 
 
 **Backend:** `Node.js` `Express` `NestJS` `MySQL` `Prisma` `WebSocket` `Firebase` `REST API`
 
-**Tools:** `Git` `Docker` `Vim` `WSL` `Linux Ubuntu/Fedora` `CI/CD`
+**Tools:** `Git` `Docker` `Vim` `WSL` `Linux Ubuntu/Fedora` `Github Actions`
 
 ## 📌 Featured Projects
 
