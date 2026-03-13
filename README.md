@@ -26,7 +26,7 @@ Real-time command and control center for emergency response and dispatching. Fea
 - FullStack
 [air-fiber-billing](https://office.dynamicglobalsoft.com:1206/)
 
-CMS Billing is a web-based billing management system built for internet service providers. It features three distinct user roles — clients can view statements, pay bills, and chat with support; admins manage subscribers, plans, transactions, and personnel; superadmins handle account provisioning. The system includes real-time notifications via Socket.io, PDF generation for receipts and statements of account, and an AI-powered payment verification flow using Google Gemini to extract transaction reference numbers from uploaded screenshots.
+A web-based billing management system built for internet service providers. It features three distinct user roles — clients can view statements, pay bills, and chat with support; admins manage subscribers, plans, transactions, and personnel; superadmins handle account provisioning. The system includes real-time notifications via Socket.io, PDF generation for receipts and statements of account, and an AI-powered payment verification flow using Google Gemini to extract transaction reference numbers from uploaded screenshots.
 
 `Tech: ReactJS, ExpressJS, Zustand, TanStack React Query, Ant Design, Tailwind CSS, Socket.io, MySQL`
 
