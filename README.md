@@ -30,6 +30,14 @@ A web-based billing management system built for internet service providers. It f
 
 `Tech: ReactJS, ExpressJS, Zustand, TanStack React Query, Ant Design, Tailwind CSS, Socket.io, MySQL`
 
+### DigiBarangay
+- Back-End
+[digitalgovernmentsolutions.com](https://digitalgovernmentsolutions.com/barangay/)
+
+DigiBarangay CMS is a comprehensive community management platform built for barangay local government offices. The system digitalizes day-to-day administrative workflows including citizen registration, household tracking, health record management, blotter filing, business record keeping, and official government PDF report generation (RBI Forms A, B &C).
+
+`Tech: ReactJS, RTK Saga, Node.js, ExpressJS, MySQL`
+
 ## 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/mikorosales](https://www.linkedin.com/in/mikorosales/)
