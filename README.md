@@ -6,11 +6,11 @@ Currently seeking opportunities to contribute to innovative teams and impactful 
 
 ## 🛠️ Tech Stack
 
-**Frontend:** `React` `Next.js` `TypeScript` `JavaScript` `HTML/CSS` `React Native` `Expo`
+**Frontend:** `React` `Next.js` `TypeScript` `JavaScript` `HTML/CSS` `React Native` `TailwindCSS` 
 
-**Backend:** `Node.js` `Express` `NestJS` `MySQL` `Prisma` `WebSocket` `Firebase` `REST API`
+**Backend:** `NodeJS` `ExpressJS` `NestJS` `MySQL` `Prisma` `TypeORM` `WebSocket` `Firebase` `REST API`
 
-**Tools:** `Git` `Docker` `Vim` `WSL` `Linux Ubuntu/Fedora` `Github Actions`
+**Tools:** `Git` `Docker` `Vim` `WSL` `Linux Ubuntu/Fedora` `Github Actions` `VSCode` `Expo`
 
 ## 📌 Featured Projects
 
