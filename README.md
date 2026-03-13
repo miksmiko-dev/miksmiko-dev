@@ -21,6 +21,10 @@ Real-time command and control center for emergency response and dispatching. Fea
 
 `Tech: React, RTK Saga, Node.js, Express, MySQL, WebSocket, Firebase`
 
+[air-fiber-billing](https://office.dynamicglobalsoft.com:1206/)
+
+A role-based ISP billing CMS built with React, Vite, Ant Design, and Tailwind CSS. Uses Zustand for client state and TanStack React Query for server state. Features real-time messaging via Socket.io, PDF generation with @react-pdf/renderer, and AI-assisted payment verification using Google Gemini and Tesseract.js OCR.
+
 ## 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/mikorosales](https://www.linkedin.com/in/mikorosales/)
